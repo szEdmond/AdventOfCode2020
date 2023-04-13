@@ -361,3 +361,7 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/AoC2020/input
+/AoC2020/AoC2020.vcxproj
+/AoC2020/AoC2020.vcxproj.filters
+/AoC2020.sln
